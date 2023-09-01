@@ -1,53 +1,47 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-	margin-left:5%
-	margine-right:5%
+	margin: 0% 5% 0% 5%;
 }
 .homePage {
 	background: #fbeddb;
 }
 .container {
-	width: 90%;
-	margin-left:5%
-	margine-right:5%
+	width: 100%;
+	margin: 0% 5% 0% 5%;
 }
 .header {
 	background: #fbeddb;
 	text-align: center;
-	margin-left:5%
-	margine-right:5%
+	margin: 0% 5% 0% 5%;
 	padding: 5;
 	float: left;
-	width: 90%;
+	width: 100%;
 	height: 80px;
 	
 }
 .nav {
 	background: #656d4f;
-	margin-left:5%
-	margine-right:5%
+	margin: 0% 5% 0% 5%;
 	padding: 5;
 	float: left;
-	width: 90%;
+	width: 100%;
 	height: 60px;
 	text-align: center;
 }
 .content {
 	background: #fbeddb;
-	margin-left:5%
-	margine-right:5%
+	margin: 0% 5% 0% 5%;
 	float: left;
-	width: 90%;
+	width: 100%;
 
 	text-align: center;
 }
 .footer {
 	background: #656d4f;
-	margin-left:5%
-	margine-right:5%
+	margin: 0% 5% 0% 5%;
 	float: left;
-	width: 90%;
+	width: 100%;
 	height: 50px;
 	text-align: center;
 }
