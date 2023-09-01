@@ -1,19 +1,22 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-	margin: 0 auto;
+	margin-right: 10%;
+	margin-left: 10%;
 }
 .homePage {
 	background: #F7FDE9;
 }
 .container {
 	width: 100%;
-	margin: 0 auto;
+	margin-right: 10%;
+	margin-left: 10%;
 }
 .header {
 	background: #C1E1C1;
 	text-align: center;
-	margin: 0px;
+	margin-right: 10%;
+	margin-left: 10%;
 	padding: 5;
 	float: left;
 	width: 100%;
@@ -22,7 +25,8 @@ body {
 }
 .nav {
 	background: #FAE3DC;
-	margin: 0px;
+	margin-right: 10%;
+	margin-left: 10%;
 	padding: 5;
 	float: left;
 	width: 100%;
@@ -31,7 +35,8 @@ body {
 }
 .content {
 	background: #8887AD;
-	margin: 0px;
+	margin-right: 10%;
+	margin-left: 10%;
 	float: left;
 	width: 100%;
 
@@ -39,7 +44,8 @@ body {
 }
 .footer {
 	background: #D1CFFA;
-	margin: 0px;
+	margin-right: 10%;
+	margin-left: 10%;
 	float: left;
 	width: 100%;
 	height: 50px;
