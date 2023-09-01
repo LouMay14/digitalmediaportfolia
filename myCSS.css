@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* ((Big\ Caslon Medium) ((BigCaslon.ttf 0 140976) (BigCaslon.ttf 0 213512) (BigCaslon.ttf 0 223272))) */
+/* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
 }
@@ -18,7 +18,6 @@ body {
 	float: left;
 	width: 100%;
 	height: 80px;
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Big+Caslon&display=swap">
 	
 }
 .nav {
